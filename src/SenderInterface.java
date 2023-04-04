@@ -8,4 +8,5 @@ public interface SenderInterface {
     Message createMessage(Session session, Mail mail);
 
     boolean send(Message message);
+    //Irgend ein Kommentar
 }
