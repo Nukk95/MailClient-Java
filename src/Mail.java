@@ -78,4 +78,5 @@ public class Mail {
                 + "\nSubject: " + this.subject
                 + "\nMessage: " + this.message;
     }
+    // Auch noch ein Kommentar
 }
